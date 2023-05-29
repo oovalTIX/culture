@@ -55,4 +55,4 @@ Our ticketing engine is designed for unlimited flexbility to address the challen
 
 Ticketing is at a crossroads, with incredible potential but also significant challenges to overcome. It is crucially important that we plan accordingly to address these challenges and take advantage of the opportunities ahead.
 
-This is audacious goal. Time to build.
+This is an audacious goal. Time to build.
